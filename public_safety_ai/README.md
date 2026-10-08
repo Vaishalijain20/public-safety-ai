@@ -24,7 +24,7 @@ Current defense mechanisms (1930 Helpline and National Cybercrime Reporting Port
 
 ---
 
-![Executive Dashboard](./assets/01.jpg)
+![Executive Dashboard](./01.jpg)
 *Figure 1: The Citizen Public Safety Shield featuring live acoustic threat scoring and instant localized panic-breaking directives.*
 
 ---
