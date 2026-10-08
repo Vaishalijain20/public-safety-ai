@@ -42,7 +42,7 @@ To break cognitive panic during psychological hostage-taking, the engine serves 
 
 ---
 
-![Command Center Strategy](./assets/02.jpg)
+![Command Center Strategy](./02.jpg)
 *Figure 2: Law Enforcement Command Center with dynamic PIN authentication and Section 102 CrPC one-click bank freeze.*
 
 ---
@@ -58,7 +58,7 @@ Renders high-performance 3D spatial threat columns over CartoDB dark vector tile
 
 ---
 
-![Geospatial Syndicate Map](./assets/03.jpg)
+![Geospatial Syndicate Map](./03.jpg)
 *Figure 3: 3D Geospatial Density Mapping visualizing cross-border syndicate operations against national urban hubs.*
 
 ---
